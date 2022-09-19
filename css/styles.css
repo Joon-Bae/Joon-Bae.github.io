@@ -11434,12 +11434,8 @@ section.resume-section .resume-section-content {
   }
 }
 
-.project-image {
-  height:500px;
-  width: 500px;
-}
 
-.project-link {
-  height:500px;
-  width: 500px;
+img {
+  height:450px;
+  width:450px;
 }
