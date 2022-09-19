@@ -11435,6 +11435,11 @@ section.resume-section .resume-section-content {
 }
 
 .project-image {
-  height:250px;
-  width: 250px;
+  height:500px;
+  width: 500px;
+}
+
+.project-link {
+  height:500px;
+  width: 500px;
 }
